@@ -1,6 +1,38 @@
 [
   {
     "trend_arrow": "45_DOWN", 
+    "display_time": "2017-02-07T09:33:11-08:00", 
+    "noise": 1, 
+    "direction": "FortyFiveDown", 
+    "system_time": "2017-02-07T17:18:25-08:00", 
+    "sgv": 107, 
+    "dateString": "2017-02-07T09:33:11-08:00", 
+    "device": "openaps://indy-e1/cgm", 
+    "unfiltered": 117296, 
+    "rssi": 191, 
+    "date": 1486488791000.0, 
+    "filtered": 125184, 
+    "type": "sgv", 
+    "glucose": 107
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "display_time": "2017-02-07T09:28:11-08:00", 
+    "noise": 1, 
+    "direction": "FortyFiveDown", 
+    "system_time": "2017-02-07T17:13:25-08:00", 
+    "sgv": 114, 
+    "dateString": "2017-02-07T09:28:11-08:00", 
+    "device": "openaps://indy-e1/cgm", 
+    "unfiltered": 122544, 
+    "rssi": 193, 
+    "date": 1486488491000.0, 
+    "filtered": 130960, 
+    "type": "sgv", 
+    "glucose": 114
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
     "display_time": "2017-02-07T09:23:11-08:00", 
     "noise": 1, 
     "direction": "FortyFiveDown", 
@@ -62,37 +94,5 @@
     "filtered": 156384, 
     "type": "sgv", 
     "glucose": 142
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "display_time": "2017-02-07T09:03:11-08:00", 
-    "noise": 1, 
-    "direction": "FortyFiveDown", 
-    "system_time": "2017-02-07T16:48:25-08:00", 
-    "sgv": 150, 
-    "dateString": "2017-02-07T09:03:11-08:00", 
-    "device": "openaps://indy-e1/cgm", 
-    "unfiltered": 153760, 
-    "rssi": 198, 
-    "date": 1486486991000.0, 
-    "filtered": 162624, 
-    "type": "sgv", 
-    "glucose": 150
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "display_time": "2017-02-07T08:58:11-08:00", 
-    "noise": 1, 
-    "direction": "FortyFiveDown", 
-    "system_time": "2017-02-07T16:43:25-08:00", 
-    "sgv": 157, 
-    "dateString": "2017-02-07T08:58:11-08:00", 
-    "device": "openaps://indy-e1/cgm", 
-    "unfiltered": 159104, 
-    "rssi": 188, 
-    "date": 1486486691000.0, 
-    "filtered": 168832, 
-    "type": "sgv", 
-    "glucose": 157
   }
 ]
