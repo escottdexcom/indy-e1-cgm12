@@ -302,5 +302,21 @@
     "rssi": 431, 
     "type": "sgv", 
     "glucose": 90
+  }, 
+  {
+    "trend_arrow": "SINGLE_UP", 
+    "display_time": "2017-02-14T16:37:54-08:00", 
+    "noise": 1, 
+    "system_time": "2017-02-15T00:37:03-08:00", 
+    "direction": "SingleUp", 
+    "sgv": 148, 
+    "dateString": "2017-02-14T16:37:54-08:00", 
+    "date": 1487119074000, 
+    "unfiltered": 157344, 
+    "filtered": 147008, 
+    "device": "openaps://indy-e1/cgm", 
+    "rssi": 678, 
+    "type": "sgv", 
+    "glucose": 148
   }
 ]
